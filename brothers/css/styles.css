@@ -16,7 +16,6 @@ body {
 
 .grid img {
     width: 100%;
-    background-color: red;
     object-fit: cover;
 }
 
@@ -27,12 +26,10 @@ body {
 
 .grid div {
     width: 100%;
-    background-color: red;
     min-height: 50px;
 }
 
 .pic {
-    background-color: red;
     min-height: 50px;
 }
 
@@ -45,6 +42,8 @@ body {
 
 .text {
     font-family: 'Lora', serif;
+    line-height: 25px;
+    text-align: justify;
 }
 
 .el1 {
@@ -71,8 +70,8 @@ body {
 }
 
 .el5 {
-    margin-top: 192px;
-    grid-column: 4 / span 8;
+    margin-top: 115px;
+    grid-column: 3 / span 5;
     grid-row: 5  / span 1;
 
 }
@@ -135,7 +134,7 @@ body {
 }
 
 .el15 {
-    margin-top: 234px;
+    margin-top: 120px;
     grid-column: 4 / span 8;
     grid-row: 11  / span 1;
 }
