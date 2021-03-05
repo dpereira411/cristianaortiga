@@ -154,19 +154,19 @@ body {
 }
 
 .el18 {
-    margin-top: 93px;
+    margin-top: 251px;
     grid-column: 2 / span 5;
     grid-row: 13  / span 1;
 }
 
 .el19 {
-    margin-top: 147px;
+    margin-top: 248px;
     grid-column: 10 / span 2;
     grid-row: 13  / span 1;
 }
 
 .el20 {
-    margin-top: 658px;
+    margin-top: 254px;
     grid-column: 7 / span 7;
     grid-row: 14  / span 1;
 }
@@ -198,13 +198,12 @@ body {
 .el25 {
     margin-top: 148px;
     grid-column: 2 / span 12;
-    grid-row: 18  / span 1;
+    grid-row: 19  / span 1;
 }
 
 .el26 {
-    margin-top: 264px;
     grid-column: 2 / span 4;
-    grid-row: 17  / span 1;
+    grid-row: 18  / span 1;
 }
 
 .el27 {
