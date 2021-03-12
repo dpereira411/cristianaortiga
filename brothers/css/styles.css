@@ -59,7 +59,7 @@ body {
 
 .el1 {
     margin-top: 173px;
-    grid-column: 2 / span 12;
+    grid-column: 3 / span 10;
     grid-row: 1 / span 1;
   }
   
