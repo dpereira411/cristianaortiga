@@ -82,7 +82,7 @@ body {
 
 .el5 {
     margin-top: 115px;
-    grid-column: 3 / span 5;
+    grid-column: 8 / span 6;
     grid-row: 5  / span 1;
 
 }
@@ -197,6 +197,7 @@ body {
     margin-top: 201px;
     grid-column: 3 / span 6;
     grid-row: 16 / span 1;
+    display: none;
 }
 
 .el24 {
